@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduDroidLiveApp.Droid", "BaiduDroidLiveApp.Droid\BaiduDroidLiveApp.Droid.csproj", "{EB2BF197-5810-4C76-845D-FD6BD62FB227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduDroidLiveApp.Binding", "BaiduDroidLiveApp.Binding\BaiduDroidLiveApp.Binding.csproj", "{D0494329-D68B-4520-A5D8-C7CE0DC7800F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2BF197-5810-4C76-845D-FD6BD62FB227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2BF197-5810-4C76-845D-FD6BD62FB227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2BF197-5810-4C76-845D-FD6BD62FB227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2BF197-5810-4C76-845D-FD6BD62FB227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0494329-D68B-4520-A5D8-C7CE0DC7800F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0494329-D68B-4520-A5D8-C7CE0DC7800F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0494329-D68B-4520-A5D8-C7CE0DC7800F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0494329-D68B-4520-A5D8-C7CE0DC7800F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
